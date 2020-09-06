@@ -1,0 +1,58 @@
+
+1.menghitung resultan gaya
+
+input massa = m;
+input percepatan = p;
+input resultan gaya = rg;
+
+m =   600;
+p = 2;
+
+set = m*p;
+
+output (rg);
+
+
+2.pseudocode tahun kabisat atau bukan
+
+if (year 0 mod 4 ==  year > 0 mod 100):
+{
+    output "tahun kabisat";
+} 
+if (year 0 mod 4 mod 100 ==  0 mod 400):
+{
+    output "tahun kabisat";
+} 
+else:
+{
+    output "bukan kabisat";
+}
+
+
+3.jumlah pakaian
+input penuh = 0;
+
+while penuh < 20;
+  add penuh by 1++;
+
+output "I'm full!"
+
+
+
+4. Periksa Kuku
+input siswa = s;
+input kuku = kk;
+
+s = 40;
+kk = kkpanjang
+ 
+if (40 == kkpanjang):
+{
+    output "hukum";
+} 
+
+else:
+{
+    output "puji";
+}
+
