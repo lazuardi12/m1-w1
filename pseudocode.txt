@@ -15,44 +15,25 @@ output (rg);
 
 2.pseudocode tahun kabisat atau bukan
 
-if (year 0 mod 4 ==  year > 0 mod 100):
-{
-    output "tahun kabisat";
-} 
-if (year 0 mod 4 mod 100 ==  0 mod 400):
-{
-    output "tahun kabisat";
-} 
-else:
-{
-    output "bukan kabisat";
-}
-
-
-3.jumlah pakaian
-input penuh = 0;
-
-while penuh < 20;
-  add penuh by 1++;
-
-output "I'm full!"
+jika (tahun mod 4 sama dengan 0 dan tidak habis di bagi 100) 
+     jika (habis di bagi 100 && habis di bagi 400 )
+     maka "tahun kabisat"  
+     selain itu
+     maka "bukan kabisat" 
+selain itu
+maka "bukan kabisat"
 
 
 
-4. Periksa Kuku
-input siswa = s;
-input kuku = kk;
-
-s = 40;
-kk = kkpanjang
+3.  cek pakaian kurang dari sama dengan 20
+tambahkan pakaian mulai dari 1
+apabila sudah penuh
+maka "penuh"
  
-if (40 == kkpanjang):
-{
-    output "hukum";
-} 
+----------------------------------------------!
 
-else:
-{
-    output "puji";
-}
-
+4. cek siswa kurang dari sama dengan 40
+apabila terdapat siswa kukupanjang
+maka "hukum"
+selain itu
+maka "PUJI"
