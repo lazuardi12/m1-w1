@@ -37,3 +37,43 @@ apabila terdapat siswa kukupanjang
 maka "hukum"
 selain itu
 maka "PUJI"
+
+ (){
+    console.log('Halo Ksatriaour Nina, kamu dapat menyerang dengan senjatamu!');
+  }
+  if (nama == 'danu' peran == 'tabib' ) {
+    console.log('selamat datang di Dunia Proxytia, Danu');
+  } else {
+    console.log('Halo Tabib Danu, kamu akan membantu temanmu yang terluka.');
+  }
+  if (nama == 'zero' peran == 'penyihir' ) {
+    console.log('Selamat datang di Dunia Proxytia, Zero);
+  } else {
+    console.log('Halo Penyihir Zero, ciptakan keajaiban yang membantu kemenanganmu!');
+  }
+
+
+  --------------------
+
+  switch (hari) {
+    case '1':
+      console.log('');
+      break;
+    case '2':
+      console.log('Februari');
+      break;
+    case '3':
+      console.log('Maret');
+      break;
+      case '4':
+      console.log('April');
+      break;
+    case '5':
+      console.log('Mei');
+      break;
+    case '6':
+      console.log('Juni');
+      break;
+      case '7':
+      console.log('Juli');
+      break;}
