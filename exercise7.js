@@ -19,14 +19,14 @@ for (j = 1; j <= 5; j++) {
 console.log('LOOPING KETIGA');
 
 
-var x,y,chr;
-for(x=1; x <=6; x++)
+var ex,y,chr='';
+for(ex=1; ex <=6; ex++)
 {
-   for (y=1; y < x; y++)
+   for (y=1; y < ex; y++)
      {
     chr=chr+("*");        
       }
- console.log(chr);
+ console.log(chr  );
  chr='';    
 }
 
